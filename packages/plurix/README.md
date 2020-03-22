@@ -12,4 +12,4 @@
 </h1>
 
 
-[Plurid](https://github.com/plurid)-Inspired Desktop Environment for Linux-based Operating Systems
+[Plurid](https://github.com/plurid)-Inspired, [Mir](https://github.com/MirServer/mir)-Based Desktop Environment for Linux-based Operating Systems
