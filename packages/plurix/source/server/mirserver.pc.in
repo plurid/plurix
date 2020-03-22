@@ -1,0 +1,12 @@
+prefix=@PREFIX@
+exec_prefix=@EXEC_PREFIX@
+libdir=@LIBDIR@
+includedir=@INCLUDEDIR@
+
+Name: mirserver
+Description: Mir server library
+Version: @MIR_VERSION@
+Requires.private: mirclient
+Requires: mirplatform uuid mircore
+Libs: -L@LIBDIR@ -lmirserver
+Cflags: -I@INCLUDEDIR@
